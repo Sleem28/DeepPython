@@ -1,0 +1,2 @@
+parent_path,item,is_folder,size
+..\.git\hooks,prepare-commit-msg.sample,False,1492

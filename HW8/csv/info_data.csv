@@ -1,0 +1,4 @@
+parent_path,item,is_folder,size
+..\.git,info,True,240
+parent_path,item,is_folder,size
+..\.git\objects,info,True,0
